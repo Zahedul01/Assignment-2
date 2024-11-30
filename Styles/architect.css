@@ -10,6 +10,8 @@
   .brand{
     font-style: italic;
     color: #E6533C;
+    font-weight: 700;
+    font-size: 3rem;
   }
 
   /*shared styles*/ 
@@ -28,14 +30,24 @@
     background-color: #111111;
 }
 
+.bg-dark{
+
+}
+
   /* Navbar related Style  */
 .navbar{
     justify-content: space-between;
+    align-items: center;
 }
 
 .nav-item{
     list-style: none;
     margin-right: 30px;
+}
+
+.navbar, .banner {
+    max-width: 1440;
+    margin: 0 auto;
 }
 
 .nav-link{
