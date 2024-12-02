@@ -48,6 +48,12 @@
 .navbar, .banner {
     max-width: 1440;
     margin: 0 auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.banner-text{
+    max-width: 50%;
 }
 
 .nav-link{
@@ -55,3 +61,38 @@
 
 }
 
+.Home-btn{
+    background-color: #E6533C;
+    padding: 5px 30px;
+}
+
+.download-btn{
+    color: #FFFFFF;
+    padding: 5px 30px;
+    background-color: #111111;
+}
+.banner{
+    color: #FFFFFF;
+}
+
+.banner-btn{
+    justify-content: space-around;
+}
+
+.banner-title{
+    font-size: 4.8rem;
+}
+
+#shape{
+    font-style: italic;
+}
+
+.banner{
+    display: flex;
+}
+.banner-image{
+    display: block;
+    margin-left: 100%;
+    margin-right: auto;
+    width: 50%;
+}
