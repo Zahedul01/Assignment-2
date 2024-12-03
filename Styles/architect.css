@@ -96,3 +96,22 @@
     margin-right: auto;
     width: 50%;
 }
+
+#tutorial{
+    background-color: FFFFFF;
+    
+}
+
+#video-number{
+    font-size: 4.2rem;
+    font-weight: 700;
+}
+
+#workout{
+
+}
+
+#tutorial-number{
+    font-size: 4rem;
+    font-weight: 700;
+}
